@@ -1,0 +1,461 @@
+﻿Workout,Exercise,Full Reps,Partial Reps,Failure,Muscle Group 1,Muscle Group 2,Muscle Group 3,Notes
+Jan 1 (Arms),Single-Arm Pressdown,10,3,Yes,Triceps,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 1 (Arms),Single-Arm Pressdown,10,1,Yes,Triceps,,,
+Jan 1 (Arms),Machine Pressdown,10,7,Yes,Triceps,,,
+Jan 1 (Arms),Machine Pressdown,5,6,Yes,Triceps,,,
+Jan 1 (Arms),Machine Pressdown (dropset),3,4,Yes,Triceps,,,
+Jan 1 (Arms),Triceps Pressdown,N/A,4,Yes,Triceps,,,Rest Pause
+Jan 1 (Arms),Triceps Pressdown,N/A,6,Yes,Triceps,,,
+Jan 1 (Arms),Triceps Pressdown,10,4,Yes,Triceps,,,
+Jan 1 (Arms),Single-Arm Pressdown,N/A,N/A,Yes,Triceps,,,alternating 5 reps back and forth between arms
+Jan 1 (Arms),DB Curls,13,0,Yes,Biceps,,,Lots of cheating on last reps
+Jan 1 (Arms),DB Curls,7,1,Yes,Biceps,,,
+Jan 1 (Arms),DB Concentration Curls,12,7,Yes,Biceps,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 1 (Arms),Machine Seated Biceps Curl,6,8,Yes,Biceps,,,
+Jan 1 (Arms),Machine Seated Biceps Curl,8,4,Yes,Biceps,,,
+Jan 1 (Arms),DB Curls,7,2,Yes,Biceps,,,
+Jan 2 (Legs),Lying Hamstring Curls,12,8,Yes,Hamstrings,,,
+Jan 2 (Legs),Lying Hamstring Curls,8,8,Yes,Hamstrings,,,
+Jan 2 (Legs),Lying Hamstring Curls,7,7,Yes,Hamstrings,,,
+Jan 2 (Legs),Lying Hamstring Curls,7,10,Yes,Hamstrings,,,Rest Pause
+Jan 2 (Legs),Seated Hamstring Curls,5,8,Yes,Hamstrings,,,
+Jan 2 (Legs),Seated Hamstring Curls,7,9,Yes,Hamstrings,,,
+Jan 2 (Legs),Seated Hamstring Curls,7,8,Yes,Hamstrings,,,
+Jan 2 (Legs),Single-Leg Leg Extension,11,9,Yes,Quads,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 2 (Legs),Single-Leg Leg Extension,7,6,Yes,Quads,,,Both legs were similar reps
+Jan 2 (Legs),Single-Leg Leg Extension,6,7,Yes,Quads,,,Both legs were similar reps
+Jan 2 (Legs),Single-Leg Leg Extension,9,6,Yes,Quads,,,Pausing halfway up rep and then finishing rep. Both legs were similar reps
+Jan 3 (Chest),Incline Barbell Bench Press,10,0,Yes,Chest,Front Delts,Triceps,2 assisted reps
+Jan 3 (Chest),Incline Barbell Bench Press,12,0,Yes,Chest,Front Delts,Triceps,2 assisted reps
+Jan 3 (Chest),Bent-Over Chest Flyes,12,4,Yes,Chest,,,
+Jan 3 (Chest),Bent-Over Chest Flyes,12,7,Yes,Chest,,,
+Jan 3 (Chest),Incline Smith Bench,9,3,Yes,Chest,Front Delts,Triceps,I would almost call all of these reps partials
+Jan 3 (Chest),Incline Smith Bench,5,2,Yes,Chest,Front Delts,Triceps,
+Jan 3 (Chest),Incline Smith Bench (dropset),2,5,Yes,Chest,Front Delts,Triceps,
+Jan 3 (Chest),Pec Deck,9,7,Yes,Chest,,,
+Jan 3 (Chest),Cable Flye,10,6,Yes,Chest,,,
+Jan 3 (Chest),Bent-Over Chest Flyes (dropset),N/A,N/A,Yes,Chest,,,
+Jan 4 (Back),Single-Arm Pulldown,9,6,Yes,Lats,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 4 (Back),Single-Arm Pulldown,7,10,Yes,Lats,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 4 (Back),Chest-Supported Machine Row,9,6,Yes,Lats,Upper Back,,
+Jan 4 (Back),Chest-Supported Machine Row,5,10,Yes,Lats,Upper Back,,
+Jan 4 (Back),Lat Pulldown,6,10,Yes,Lats,,,
+Jan 4 (Back),Lat Pulldown,6,8,Yes,Lats,,,
+Jan 4 (Back),Single-Arm Low-Cable Row,8,7,Yes,Lats,Upper Back,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 5 (Arms),Triceps Pressdown,12,7,Yes,Triceps,,,
+Jan 5 (Arms),Triceps Pressdown,8,6,Yes,Triceps,,,Rest Pause
+Jan 5 (Arms),Cross-Body Pressdowns,7,8,Yes,Triceps,,,
+Jan 5 (Arms),Cross-Body Pressdowns,6,4,Yes,Triceps,,,
+Jan 5 (Arms),Cross-Body Pressdowns (dropset),1,5,Yes,Triceps,,,
+Jan 5 (Arms),Machine Pressdown,8,4,Yes,Triceps,,,
+Jan 5 (Arms),Triceps Pressdown,11,5,Yes,Triceps,,,Rest Pause
+Jan 5 (Arms),Triceps Pressdown,8,7,Yes,Triceps,,,
+Jan 5 (Arms),DB Curls,11,0,No,Biceps,,,"Cheating on last rep, so could argue failure here"
+Jan 5 (Arms),DB Curls,8,0,No,Biceps,,,"Cheating on last rep, so could argue failure here"
+Jan 5 (Arms),Machine Biceps Curl,12,9,Yes,Biceps,,,
+Jan 5 (Arms),Machine Biceps Curl,7,13,Yes,Biceps,,,Rest Pause
+Jan 5 (Arms),Machine Biceps Curl,N/A,N/A,Yes,Biceps,,,Cuts in mid-set. Rest Pause
+Jan 5 (Arms),Preacher Curl,14,4,Yes,Biceps,,,
+Jan 5 (Arms),EZ-Bar Curl (dropset),2,12,Yes,Biceps,,,Transitioned immediately from preacher to this
+Jan 6 (Shoulders + Forearms),Lying Face Pull,18,2,Yes,Upper Back,Rear Delts,,
+Jan 6 (Shoulders + Forearms),Lying Face Pull,8,6,Yes,Upper Back,Rear Delts,,
+Jan 6 (Shoulders + Forearms),Lying Face Pull,10,8,Yes,Upper Back,Rear Delts,,
+Jan 6 (Shoulders + Forearms),Lying Face Pull,14,6,Yes,Upper Back,Rear Delts,,
+Jan 6 (Shoulders + Forearms),Lying Face Pull,N/A,N/A,Yes,Upper Back,Rear Delts,,Camera angle makes it hard to tell when full range of motion ends
+Jan 6 (Shoulders + Forearms),Lying Face Pull,9,19,Yes,Upper Back,Rear Delts,,
+Jan 6 (Shoulders + Forearms),Lateral Raises,8,7,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),Lateral Raises,6,8,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),Lateral Raises,8,4,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),Machine Lateral Raise,1,10,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),Machine Lateral Raise,6,9,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),Machine Lateral Raise,8,8,Yes,Delts,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,20,0,No,Forearms,,,Said he was doing 5 more sets after the first set (didn't show them)
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Extension,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,25,0,No,Forearms,,,Said he was doing 5-6 total sets (didn't show them)
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,N/A,N/A,No,Forearms,,,
+Jan 6 (Shoulders + Forearms),DB Forearm Flexion,N/A,N/A,No,Forearms,,,
+Jan 7 (Legs),Single-Leg Lying Hamstring Curls,10,7,Yes,Hamstrings,,,Similar reps for both legs
+Jan 7 (Legs),Single-Leg Lying Hamstring Curls,N/A,N/A,Yes,Hamstrings,,,Camera angle makes it hard to tell when full range of motion ends
+Jan 7 (Legs),Single-Leg Lying Hamstring Curls,5,7,Yes,Hamstrings,,,Similar reps for both legs
+Jan 7 (Legs),Seated Hamstring Curls,10,10,Yes,Hamstrings,,,
+Jan 7 (Legs),Seated Hamstring Curls,5,8,Yes,Hamstrings,,,
+Jan 7 (Legs),Seated Hamstring Curls,7,13,Yes,Hamstrings,,,Rest Pause
+Jan 7 (Legs),Single-Leg Leg Extensions,11,10,Yes,Quads,,,Matching reps to left quad (since left is lagging)
+Jan 7 (Legs),Single-Leg Leg Extensions,10,9,Yes,Quads,,,
+Jan 7 (Legs),Single-Leg Leg Extensions,10,7,Yes,Quads,,,
+Jan 7 (Legs),Single-Leg Leg Extensions,9,9,Yes,Quads,,,
+Jan 7 (Legs),Leg Extensions,12,8,Yes,Quads,,,
+Jan 7 (Legs),Leg Extensions,8,13,Yes,Quads,,,
+Jan 7 (Legs),Smith Machine Squat,10,1,Yes,Quads,Glutes,,Rest Pause
+Jan 8 (Back),Cable Row,8,10,Yes,Lats,Upper Back,,Got injured on first set of Incline Smith Machine Press so switched to Back workout
+Jan 8 (Back),Cable Row,6,9,Yes,Lats,Upper Back,,
+Jan 8 (Back),Cable Row,5,9,Yes,Lats,Upper Back,,
+Jan 8 (Back),Single-Arm Chest-Supported Machine Row,7,7,Yes,Lats,Upper Back,,"Have to assume reps are similar for both arms, since camera angle makes it hard to tell"
+Jan 8 (Back),Single-Arm Chest-Supported Machine Row,8,9,Yes,Lats,Upper Back,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 8 (Back),Incline Bench High-Cable Row,12,8,Yes,Lats,Upper Back,,
+Jan 8 (Back),Incline Bench High-Cable Row,10,9,Yes,Lats,Upper Back,,
+Jan 8 (Back),Incline Bench High-Cable Row,8,9,Yes,Lats,Upper Back,,
+Jan 8 (Back),Lat Pulldown,6,5,Yes,Lats,,,
+Jan 9 (Arms),Single-Arm Triceps Pressdown,12,3,Yes,Triceps,,,Reps similar for both arms
+Jan 9 (Arms),Cross-Body Triceps Pressdown,10,5,Yes,Triceps,,,
+Jan 9 (Arms),Cross-Body Triceps Pressdown,6,7,Yes,Triceps,,,
+Jan 9 (Arms),Cross-Body Triceps Pressdown,6,6,Yes,Triceps,,,
+Jan 9 (Arms),Cross-Body Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 9 (Arms),Single-Arm Underhand Triceps Pressdown,23,2,Yes,Triceps,,,Pre-exhaust
+Jan 9 (Arms),Triceps Pressdown,4,6,Yes,Triceps,,,
+Jan 9 (Arms),DB Curls,10,0,Yes,Biceps,,,"Cheating on final rep, so considered it failure"
+Jan 9 (Arms),DB Curls,11,0,Yes,Biceps,,,"Cheating on final rep, so considered it failure"
+Jan 9 (Arms),Preacher Curl,8,4,Yes,Biceps,,,
+Jan 9 (Arms),Preacher Curl,7,2,Yes,Biceps,,,
+Jan 9 (Arms),DB Concentration Curls,11,6,Yes,Biceps,,,Reps similar between arms
+Jan 9 (Arms),Machine Curls,10,7,Yes,Biceps,,,
+Jan 10 (Hamstrings),Lying Hamstring Curls,7,10,Yes,Hamstrings,,,
+Jan 10 (Hamstrings),Lying Hamstring Curls,6,9,Yes,Hamstrings,,,
+Jan 10 (Hamstrings),Lying Hamstring Curls,4,7,Yes,Hamstrings,,,
+Jan 10 (Hamstrings),Single-Leg Lying Hamstring Curls,6,6,Yes,Hamstrings,,,Matched reps to right leg
+Jan 10 (Hamstrings),Single-Leg Lying Hamstring Curls,6,6,Yes,Hamstrings,,,
+Jan 10 (Hamstrings),Single-Leg Lying Hamstring Curls,5,10,Yes,Hamstrings,,,alternating five reps each leg until done
+Jan 10 (Hamstrings),Lying Hamstring Curls,5,9,Yes,Hamstrings,,,pausing halfway up rep and then finish rep
+Jan 11 (Quads),Single-Leg Leg Extensions,15,11,Yes,Quads,,,similar reps for both legs
+Jan 11 (Quads),Single-Leg Leg Extensions,8,11,Yes,Quads,,,
+Jan 11 (Quads),Single-Leg Leg Extensions,6,9,Yes,Quads,,,
+Jan 11 (Quads),Single-Leg Leg Extensions,9,7,Yes,Quads,,,
+Jan 11 (Quads),Leg Extensions,9,7,Yes,Quads,,,
+Jan 11 (Quads),Single-Leg Leg Extensions,10,10,Yes,Quads,,,alternating five reps each leg until done
+Jan 11 (Quads),Machine Lying Sissy Squat,12,0,Yes,Quads,,,
+Jan 11 (Quads),Machine Lying Sissy Squat,9,0,Yes,Quads,,,
+Jan 12 (Back),Wide Neutral Grip Pulldowns,8,7,Yes,Lats,,,
+Jan 12 (Back),Wide Neutral Grip Pulldowns,5,7,Yes,Lats,,,
+Jan 12 (Back),Single-Arm Lat Pulldowns,4,8,Yes,Lats,,,similar reps each side
+Jan 12 (Back),Single-Arm Lat Pulldowns,N/A,N/A,Yes,Lats,,,
+Jan 12 (Back),Chest-Supported Machine Row,6,10,Yes,Lats,Upper Back,,
+Jan 12 (Back),Wide Neutral Grip Cable Row,6,7,Yes,Lats,Upper Back,,
+Jan 12 (Back),Wide Neutral Grip Cable Row,6,8,Yes,Lats,Upper Back,,
+Jan 12 (Back),Single-Arm Cable Lat Pullover,15,7,Yes,Lats,,,similar reps each side. More like a high cable row than a pullover
+Jan 12 (Back),Single-Arm Cable Lat Pullover,12,3,Yes,Lats,,,
+Jan 12 (Back),Lat Pulldown,N/A,N/A,Yes,Lats,,,Supersetted this with the cable rows
+Jan 12 (Back),Cable Row,N/A,N/A,Yes,Lats,Upper Back,,
+Jan 13 (Arms),Cross-Body Triceps Pressdown,11,6,Yes,Triceps,,,
+Jan 13 (Arms),Cross-Body Triceps Pressdown,7,7,Yes,Triceps,,,
+Jan 13 (Arms),Cross-Body Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 13 (Arms),Cross-Body Triceps Pressdown (dropset),1,6,Yes,Triceps,,,
+Jan 13 (Arms),Straight-Bar Triceps Pressdown,11,6,Yes,Triceps,,,
+Jan 13 (Arms),Long Rope Triceps Pressdown,6,10,Yes,Triceps,,,Rest pause
+Jan 13 (Arms),Long Rope Triceps Pressdown,7,13,Yes,Triceps,,,
+Jan 13 (Arms),Long Rope Triceps Pressdown,8,12,Yes,Triceps,,,
+Jan 13 (Arms),Rope Triceps Pressdown,6,7,Yes,Triceps,,,Pre-exhaust before straight-bar
+Jan 13 (Arms),Straight-Bar Triceps Pressdown,2,7,Yes,Triceps,,,
+Jan 13 (Arms),DB Curls,12,0,Yes,Biceps,,,
+Jan 13 (Arms),Machine Curls,10,8,Yes,Biceps,,,
+Jan 13 (Arms),Machine Curls,N/A,N/A,Yes,Biceps,,,
+Jan 13 (Arms),Machine Curls (dropset),0,7,Yes,Biceps,,,
+Jan 13 (Arms),DB Curls,9,1,Yes,Biceps,,,pre-exhaust for underhand lat pulldown
+Jan 13 (Arms),Underhand Lat Pulldown,7,6,Yes,Biceps,,,Not counting this for lats because of pre-exhaust
+Jan 13 (Arms),DB Curls,7,1,Yes,Biceps,,,
+Jan 13 (Arms),Underhand Lat Pulldown,4,7,Yes,Biceps,,,
+Jan 13 (Arms),DB Curls,N/A,1,Yes,Biceps,,,
+Jan 13 (Arms),Underhand Lat Pulldown,7,3,Yes,Biceps,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,10,11,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,8,10,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,10,10,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,11,7,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,6,9,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Hamstring Curls,6,8,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Lying Hamstring Curls,7,9,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Lying Hamstring Curls,6,8,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Lying Hamstring Curls,6,8,Yes,Hamstrings,,,
+Jan 14 (Hamstrings & Calves),Seated Calf Raise,14,3,Yes,Calves,,,
+Jan 14 (Hamstrings & Calves),Seated Calf Raise,11,2,Yes,Calves,,,
+Jan 14 (Hamstrings & Calves),Seated Calf Raise,N/A,N/A,Yes,Calves,,,"Multiple cuts. Could've been another 3 sets here, if each cut was a set. Not sure"
+Jan 14 (Hamstrings & Calves),Adductor Machine,13,4,Yes,Adductors,,,Said he repeated this for 5 sets
+Jan 14 (Hamstrings & Calves),Adductor Machine,N/A,N/A,Yes,Adductors,,,
+Jan 14 (Hamstrings & Calves),Adductor Machine,N/A,N/A,Yes,Adductors,,,
+Jan 14 (Hamstrings & Calves),Adductor Machine,N/A,N/A,Yes,Adductors,,,
+Jan 14 (Hamstrings & Calves),Adductor Machine,N/A,N/A,Yes,Adductors,,,
+Jan 15 (Quads),Single-Leg Leg Extension,11,7,Yes,Quads,,,Similar reps for both sides
+Jan 15 (Quads),Single-Leg Leg Extension,6,9,Yes,Quads,,,
+Jan 15 (Quads),Single-Leg Leg Extension,4,10,Yes,Quads,,,
+Jan 15 (Quads),Single-Leg Leg Extension,5,6,Yes,Quads,,,
+Jan 15 (Quads),Leg Extensions,11,8,Yes,Quads,,,
+Jan 15 (Quads),Leg Extensions,6,9,Yes,Quads,,,
+Jan 15 (Quads),Smith Machine Squat,10,0,No,Quads,,,"Took several rest pause breaks, but didn't technically fail"
+Jan 15 (Quads),Single-Leg Leg Extension,18,2,Yes,Quads,,,alternating five reps each leg until done
+Jan 15 (Quads),Sissy Squats (dropset),1,11,Yes,Quads,,,
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press,18,6,Yes,Chest,Front Delts,Triceps,"Still recovering from injury, so going lighter than usual for chest"
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press,N/A,N/A,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press,8,7,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press,8,10,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press,N/A,N/A,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),High-to-Low Cable Chest Press (dropset),5,5,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),Pec Deck,10,5,Yes,Chest,,,
+Jan 16 (Chest & Shoulders),Pec Deck,7,6,Yes,Chest,,,
+Jan 16 (Chest & Shoulders),Machine Incline Chest Press,6,6,Yes,Chest,Front Delts,Triceps,
+Jan 16 (Chest & Shoulders),Pec Deck,10,4,Yes,Chest,,,
+Jan 16 (Chest & Shoulders),Pec Deck (dropset),5,2,Yes,Chest,,,
+Jan 16 (Chest & Shoulders),Lying Face Pull,14,6,Yes,Upper Back,Rear Delts,,Mentioned that he did three more. Didn't show them.
+Jan 16 (Chest & Shoulders),Lying Face Pull,N/A,N/A,Yes,Upper Back,Rear Delts,,
+Jan 16 (Chest & Shoulders),Lying Face Pull,N/A,N/A,Yes,Upper Back,Rear Delts,,
+Jan 16 (Chest & Shoulders),Lying Face Pull,N/A,N/A,Yes,Upper Back,Rear Delts,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,18,2,Yes,Side Delts,,,Mentioned doing 6-7 more sets after this one
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 16 (Chest & Shoulders),Lying Incline Bench Lateral Raise,N/A,N/A,Yes,Side Delts,,,
+Jan 17 (Back),Lat Pulldown,8,10,Yes,Lats,,,
+Jan 17 (Back),Lat Pulldown,4,12,Yes,Lats,,,
+Jan 17 (Back),Chest-Supported T-Bar Row,6,8,Yes,Lats,Upper Back,,
+Jan 17 (Back),Chest-Supported T-Bar Row,6,6,Yes,Lats,Upper Back,,
+Jan 17 (Back),Chest-Supported T-Bar Row (dropset),2,8,Yes,Lats,Upper Back,,
+Jan 17 (Back),Cable Row,7,7,Yes,Lats,Upper Back,,
+Jan 17 (Back),Machine Pulldown,6,11,Yes,Lats,,,Rest Pause
+Jan 17 (Back),Machine Pulldown,4,12,Yes,Lats,,,Rest Pause
+Jan 17 (Back),Chest-Supported Machine Row,6,9,Yes,Lats,Upper Back,,
+Jan 17 (Back),Single-Arm Cable Lat Pullover,10,10,Yes,Lats,,,alternating five reps each leg until done
+Jan 19 (Arms),Cross-Body Triceps Pressdown,12,7,Yes,Triceps,,,
+Jan 19 (Arms),Cross-Body Triceps Pressdown,6,8,Yes,Triceps,,,
+Jan 19 (Arms),Machine Pressdown,7,6,Yes,Triceps,,,
+Jan 19 (Arms),Machine Pressdown,3,4,Yes,Triceps,,,
+Jan 19 (Arms),Machine Pressdown (dropset),3,5,Yes,Triceps,,,
+Jan 19 (Arms),Straight-Bar Triceps Pressdown,7,5,Yes,Triceps,,,
+Jan 19 (Arms),Straight-Bar Triceps Pressdown,6,8,Yes,Triceps,,,Rest Pause
+Jan 19 (Arms),Straight-Bar Triceps Pressdown,6,3,Yes,Triceps,,,
+Jan 19 (Arms),Straight-Bar Triceps Pressdown (dropset),2,5,Yes,Triceps,,,
+Jan 19 (Arms),DB Curls,9,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 19 (Arms),DB Curls,5,4,Yes,Biceps,,,
+Jan 19 (Arms),DB Curls,4,3,Yes,Biceps,,,
+Jan 19 (Arms),Machine Curls,5,10,Yes,Biceps,,,
+Jan 19 (Arms),Machine Curls,6,8,Yes,Biceps,,,
+Jan 19 (Arms),Machine Curls,4,7,Yes,Biceps,,,
+Jan 21 (Chest),Bent-Over Cable Flyes,11,8,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes,10,7,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes,7,6,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes (dropset),6,7,Yes,Chest,,,
+Jan 21 (Chest),Pec Deck,15,2,Yes,Chest,,,pre-exhaust for machine chest press
+Jan 21 (Chest),Machine Chest Press,7,6,Yes,Chest,,,
+Jan 21 (Chest),Pec Deck,N/A,6,Yes,Chest,,,
+Jan 21 (Chest),Machine Chest Press,5,6,Yes,Chest,,,
+Jan 21 (Chest),Pec Deck,6,6,Yes,Chest,,,
+Jan 21 (Chest),Machine Chest Press,7,1,Yes,Chest,,,
+Jan 21 (Chest),Machine Chest Press,13,2,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Press,0,14,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes,7,6,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes,6,13,Yes,Chest,,,
+Jan 21 (Chest),Bent-Over Cable Flyes (dropset),0,10,Yes,Chest,,,
+Jan 22 (Arms),Long Rope Triceps Pressdown,10,12,Yes,Triceps,,,
+Jan 22 (Arms),Long Rope Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 22 (Arms),DB Curls,10,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 22 (Arms),DB Curls,8,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 22 (Arms),Triceps Pressdown,15,9,Yes,Triceps,,,
+Jan 22 (Arms),Triceps Pressdown,5,11,Yes,Triceps,,,
+Jan 22 (Arms),Single-Arm Machine Preacher Curl,9,8,Yes,Biceps,,,"Have to assume reps are similar for both arms, since video cuts in mid-set"
+Jan 22 (Arms),Single-Arm Machine Preacher Curl,8,7,Yes,Biceps,,,
+Jan 22 (Arms),Single-Arm Machine Preacher Curl (dropset),4,6,Yes,Biceps,,,
+Jan 22 (Arms),Triceps Pressdown,10,10,Yes,Triceps,,,
+Jan 22 (Arms),Triceps Pressdown,N/A,N/A,Yes,Triceps,,,Can't tell because of camera angle
+Jan 22 (Arms),Triceps Pressdown (dropset),N/A,N/A,Yes,Triceps,,,Can't tell because of camera angle
+Jan 22 (Arms),EZ-Bar Curl,8,12,Yes,Biceps,,,
+Jan 22 (Arms),EZ-Bar Curl,9,7,Yes,Biceps,,,
+Jan 22 (Arms),Strict EZ-Bar Curl (superset),6,4,Yes,Biceps,,,
+Jan 22 (Arms),Triceps Pressdown,0,20,Yes,Triceps,,,
+Jan 22 (Arms),Triceps Pressdown (dropset),0,9,Yes,Triceps,,,
+Jan 22 (Arms),EZ-Bar Curl,8,6,Yes,Biceps,,,
+Jan 22 (Arms),EZ-Bar Curl (dropset),4,6,Yes,Biceps,,,
+Jan 23 (Legs),Standing Leg Curl,10,11,Yes,Hamstrings,,,
+Jan 23 (Legs),Standing Leg Curl,N/A,N/A,Yes,Hamstrings,,,Can't tell because of camera angle
+Jan 23 (Legs),Standing Leg Curl,4,12,Yes,Hamstrings,,,
+Jan 23 (Legs),Standing Leg Curl,4,10,Yes,Hamstrings,,,
+Jan 23 (Legs),Lying Leg Curl,4,10,Yes,Hamstrings,,,
+Jan 23 (Legs),Lying Leg Curl,6,10,Yes,Hamstrings,,,Assisted by a spotter
+Jan 23 (Legs),Leg Extensions,17,9,Yes,Quads,,,
+Jan 23 (Legs),Single-Leg Leg Extensions,7,7,Yes,Quads,,,
+Jan 23 (Legs),Single-Leg Leg Extensions,5,8,Yes,Quads,,,
+Jan 23 (Legs),Machine Lying Sissy Squat,6,5,No,Quads,,,"Not true failure but took multiple rest pauses, so RIR 0 for sure"
+Jan 23 (Legs),Machine Lying Sissy Squat,6,5,Yes,Quads,,,
+Jan 24 (Chest),Bent-Over Cable Flyes,13,7,Yes,Chest,,,
+Jan 24 (Chest),Bent-Over Cable Flyes,N/A,N/A,Yes,Chest,,,
+Jan 24 (Chest),Bent-Over Cable Flyes,N/A,7,Yes,Chest,,,
+Jan 24 (Chest),Bent-Over Cable Flyes (dropset),2,7,Yes,Chest,,,
+Jan 24 (Chest),Machine Chest Press,8,3,Yes,Chest,Triceps,,
+Jan 24 (Chest),Machine Chest Press,5,4,Yes,Chest,Triceps,,
+Jan 24 (Chest),Machine Chest Press,6,8,Yes,Chest,Triceps,,
+Jan 24 (Chest),Bent-Over Cable Flyes,12,11,Yes,Chest,,,
+Jan 24 (Chest),Cable Flyes,13,4,Yes,Chest,,,
+Jan 24 (Chest),Bent-Over Cable Flyes (superset),0,4,Yes,Chest,,,
+Jan 24 (Chest),Cable Flyes,13,8,Yes,Chest,,,
+Jan 24 (Chest),Cable Chest Press,5,11,Yes,Chest,Triceps,,
+Jan 24 (Chest),Bent-Over Cable Flyes (superset),11,4,Yes,Chest,,,
+Jan 25 (Back),Single-Arm Cable Lat Pullover,13,12,Yes,Lats,,,
+Jan 25 (Back),Single-Arm Cable Lat Pullover,9,11,Yes,Lats,,,
+Jan 25 (Back),Single-Arm Cable Lat Pullover,10,10,Yes,Lats,,,
+Jan 25 (Back),Chest-Supported T-Bar Row,9,8,Yes,Lats,Upper Back,,
+Jan 25 (Back),Chest-Supported T-Bar Row,2,7,Yes,Lats,Upper Back,,Short rest between this and previous set
+Jan 25 (Back),Chest-Supported T-Bar Row,6,7,Yes,Lats,Upper Back,,
+Jan 25 (Back),Chest-Supported T-Bar Row,3,8,Yes,Lats,Upper Back,,Short rest between this and previous set
+Jan 25 (Back),Lat Pulldown,5,9,Yes,Lats,,,
+Jan 25 (Back),Wide Grip Lat Pulldown (dropset),4,5,Yes,Lats,,,
+Jan 25 (Back),Incline Bench Cable Row,8,10,Yes,Lats,Upper Back,,
+Jan 25 (Back),Incline Bench Cable Row,8,10,Yes,Lats,Upper Back,,
+Jan 26 (Arms),Triceps Pressdown,13,11,Yes,Triceps,,,
+Jan 26 (Arms),Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 26 (Arms),DB Curls,10,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 26 (Arms),DB Curls,7,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 26 (Arms),Long Rope Triceps Pressdown,5,12,Yes,Triceps,,,
+Jan 26 (Arms),Long Rope Triceps Pressdown,6,9,Yes,Triceps,,,
+Jan 26 (Arms),EZ-Bar Preacher Curl,12,5,Yes,Biceps,,,
+Jan 26 (Arms),EZ-Bar Preacher Curl,8,3,Yes,Biceps,,,
+Jan 26 (Arms),Triceps Pressdown,0,22,Yes,Triceps,,,
+Jan 26 (Arms),Single-Arm Triceps Pressdown,N/A,N/A,Yes,Triceps,,,alternating five reps each leg until done
+Jan 26 (Arms),EZ-Bar Preacher Curl,14,2,Yes,Biceps,,,
+Jan 26 (Arms),EZ-Bar Preacher Curl,8,4,Yes,Biceps,,,
+Jan 26 (Arms),Rope Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 26 (Arms),Rope Triceps Pressdown,N/A,N/A,Yes,Triceps,,,
+Jan 26 (Arms),Straight-Bar Triceps Pressdown (superset),1,10,Yes,Triceps,,,
+Jan 26 (Arms),EZ-Bar Curl,12,8,Yes,Biceps,,,
+Jan 26 (Arms),EZ-Bar Curl,8,7,Yes,Biceps,,,
+Jan 27 (Legs),Seated Hamstring Curls,6,10,Yes,Hamstrings,,,
+Jan 27 (Legs),Seated Hamstring Curls,5,8,Yes,Hamstrings,,,
+Jan 27 (Legs),Seated Hamstring Curls,4,12,Yes,Hamstrings,,,
+Jan 27 (Legs),Seated Hamstring Curls,5,16,Yes,Hamstrings,,,
+Jan 27 (Legs),Lying Hamstring Curls,5,12,Yes,Hamstrings,,,
+Jan 27 (Legs),Lying Hamstring Curls,5,7,Yes,Hamstrings,,,
+Jan 27 (Legs),Single-Leg Leg Extension,9,14,Yes,Quads,,,
+Jan 27 (Legs),Single-Leg Leg Extension,7,13,Yes,Quads,,,
+Jan 27 (Legs),Single-Leg Leg Press,12,8,Yes,Quads,Glutes,,
+Jan 27 (Legs),Single-Leg Leg Press,N/A,N/A,Yes,Quads,Glutes,,alternating five reps each leg until done
+Jan 27 (Legs),Barbell Squats,10,0,No,Quads,Glutes,,
+Jan 28 (Chest & Shoulders),Incline Barbell Bench Press,12,0,No,Chest,Front Delts,Triceps,Recovering from injury. Went lighter. 0 RIR
+Jan 28 (Chest & Shoulders),Incline Barbell Bench Press,9,0,Yes,Chest,Front Delts,Triceps,Spotter pulled up last rep
+Jan 28 (Chest & Shoulders),Incline Machine Chest Press,7,1,Yes,Chest,Front Delts,Triceps,
+Jan 28 (Chest & Shoulders),Incline Machine Chest Press,4,5,Yes,Chest,Front Delts,Triceps,
+Jan 28 (Chest & Shoulders),Incline Machine Chest Press (dropset),0,7,Yes,Chest,Front Delts,Triceps,
+Jan 28 (Chest & Shoulders),Bent-Over Cable Chest Press,5,8,Yes,Chest,Front Delts,Triceps,
+Jan 28 (Chest & Shoulders),Bent-Over Cable Chest Press,N/A,N/A,Yes,Chest,Front Delts,Triceps,
+Jan 28 (Chest & Shoulders),Pec Deck,10,7,Yes,Chest,,,
+Jan 28 (Chest & Shoulders),Pec Deck,8,8,Yes,Chest,,,
+Jan 28 (Chest & Shoulders),Cable Flyes,13,3,Yes,Chest,,,
+Jan 28 (Chest & Shoulders),Bent-Over Cable Flyes,11,5,Yes,Chest,,,
+Jan 28 (Chest & Shoulders),Lying Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,"Just described his shoulder workout. Side delt volume is a bit of an estimate, based on what he said, but probably within a set or two"
+Jan 28 (Chest & Shoulders),Lying Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),Lying Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),Lying Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),Single-Arm D-Handle Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),Single-Arm D-Handle Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),Single-Arm D-Handle Face Pull,N/A,N/A,N/A,Upper Back,Rear Delts,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 28 (Chest & Shoulders),DB Lateral Raise,N/A,N/A,N/A,Side Delts,,,
+Jan 29 (Back),Lat Pulldown,6,13,Yes,Lats,,,
+Jan 29 (Back),Lat Pulldown,4,8,Yes,Lats,,,
+Jan 29 (Back),Lat Pulldown (dropset),1,9,Yes,Lats,,,
+Jan 29 (Back),Lat Pulldown,5,9,Yes,Lats,,,
+Jan 29 (Back),Lat Pulldown (dropset),4,4,Yes,Lats,,,
+Jan 29 (Back),Chest-Supported Machine Row,4,11,Yes,Lats,Upper Back,,
+Jan 29 (Back),Chest-Supported Machine Row,5,7,Yes,Lats,Upper Back,,
+Jan 29 (Back),Chest-Supported Machine Row (dropset),1,7,Yes,Lats,Upper Back,,
+Jan 29 (Back),Single-Arm Cable Lat Pullover,10,10,Yes,Lats,,,alternating five reps each leg until done
+Jan 29 (Back),Lat Pulldown,5,10,Yes,Lats,,,
+Jan 29 (Back),Chest-Supported Machine Row (superset),0,8,Yes,Lats,Upper Back,,
+Jan 30 (Arms),D-Handle Triceps Pressdowns,10,11,Yes,Triceps,,,
+Jan 30 (Arms),D-Handle Triceps Pressdowns,6,11,Yes,Triceps,,,
+Jan 30 (Arms),D-Handle Triceps Pressdowns,5,8,Yes,Triceps,,,
+Jan 30 (Arms),Overhead Single-Arm DB Extension,11,6,Yes,Triceps,,,
+Jan 30 (Arms),Overhead Single-Arm DB Extension,2,12,Yes,Triceps,,,
+Jan 30 (Arms),Machine Triceps Pressdown,10,8,Yes,Triceps,,,
+Jan 30 (Arms),Machine Triceps Pressdown,15,2,Yes,Triceps,,,
+Jan 30 (Arms),Straight-Bar Triceps Pressdown,12,6,Yes,Triceps,,,
+Jan 30 (Arms),DB Curls,10,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Jan 30 (Arms),Single-Arm Cable Curl,9,9,Yes,Biceps,,,
+Jan 30 (Arms),Straight-Bar Cable Curl,11,6,Yes,Biceps,,,Rest Pause
+Jan 30 (Arms),EZ-Bar Preacher Curls,13,2,Yes,Biceps,,,
+Jan 30 (Arms),EZ-Bar Preacher Curls,16,0,Yes,Biceps,,,Assisted reps
+Jan 30 (Arms),Spider Curls,15,7,Yes,Biceps,,,
+Jan 30 (Arms),Spider Curls,12,7,Yes,Biceps,,,
+Jan 30 (Arms),DB Curls,8,1,Yes,Biceps,,,
+Jan 30 (Arms),DB Curls (dropset),3,4,Yes,Biceps,,,
+Jan 31 (Legs),Seated Hamstring Curls,N/A,N/A,Yes,Hamstrings,,,
+Jan 31 (Legs),Seated Hamstring Curls,6,6,Yes,Hamstrings,,,
+Jan 31 (Legs),Seated Hamstring Curls,6,9,Yes,Hamstrings,,,
+Jan 31 (Legs),Seated Hamstring Curls,5,12,Yes,Hamstrings,,,
+Jan 31 (Legs),Single-Leg Leg Extensions,7,9,Yes,Quads,,,
+Jan 31 (Legs),Single-Leg Leg Extensions,5,12,Yes,Quads,,,
+Jan 31 (Legs),Barbell Squats,12,0,No,Quads,Glutes,,multiple rest pauses. RIR 0 most likely
+Jan 31 (Legs),Barbell Squats,8,0,No,Quads,Glutes,,
+Jan 31 (Legs),Leg Extensions,8,5,Yes,Quads,,,
+Jan 31 (Legs),Sissy Squats (dropset),0,11,Yes,Quads,,,
+Jan 31 (Legs),Single-Leg Leg Extensions,N/A,N/A,Yes,Quads,,,alternating five reps each leg until done
+Jan 31 (Legs),Sissy Squats (dropset),N/A,N/A,Yes,Quads,,,
+Jan 31 (Legs),Single-Leg Leg Extensions,10,5,Yes,Quads,,,
+Jan 31 (Legs),Sissy Squats (dropset),0,10,Yes,Quads,,,
+Jan 31 (Legs),Single-Leg Leg Extensions,N/A,N/A,Yes,Quads,,,
+Jan 31 (Legs),Sissy Squats (dropset),0,8,Yes,Quads,,,
+Feb 1 (Chest),Incline Barbell Bench Press,3,11,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Incline Barbell Bench Press,3,8,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Machine Chest Press,9,4,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Machine Chest Press,8,4,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Machine Chest Press,N/A,N/A,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Machine Chest Press (dropset),N/A,N/A,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Bent-Over Cable Chest Press,8,9,Yes,Chest,Front Delts,Triceps,
+Feb 1 (Chest),Cable Flyes,15,10,Yes,Chest,,,
+Feb 1 (Chest),Cable Flyes,12,7,Yes,Chest,,,
+Feb 1 (Chest),Bent-Over Cable Flyes (dropset),5,6,Yes,Chest,,,
+Feb 2 (Calves),Seated Calf Raises,N/A,N/A,Yes,Calves,,,
+Feb 2 (Calves),Seated Calf Raises,0,14,Yes,Calves,,,
+Feb 2 (Calves),Seated Calf Raises,0,15,Yes,Calves,,,
+Feb 2 (Calves),Seated Calf Raises,N/A,N/A,Yes,Calves,,,
+Feb 2 (Calves),Single-Leg Seated Calf Raises,N/A,N/A,Yes,Calves,,,
+Feb 2 (Calves),Single-Leg Seated Calf Raises,N/A,N/A,Yes,Calves,,,
+Feb 3 (Back),Single-Arm Cable Lat Pullover,11,17,Yes,Lats,,,
+Feb 3 (Back),Single-Arm Cable Lat Pullover,4,11,Yes,Lats,,,
+Feb 3 (Back),Neutral-Grip Cable Row,4,14,Yes,Lats,Upper Back,,
+Feb 3 (Back),Cable Row,7,8,Yes,Lats,Upper Back,,
+Feb 3 (Back),Cable Row (dropset),0,5,Yes,Lats,Upper Back,,
+Feb 3 (Back),Machine Pulldowns,19,0,Yes,Lats,,,assisted
+Feb 3 (Back),Machine Pulldowns,18,1,Yes,Lats,,,
+Feb 3 (Back),Chest-Supported Machine Rows,3,10,Yes,Lats,Upper Back,,
+Feb 3 (Back),Chest-Supported Machine Rows,8,9,Yes,Lats,Upper Back,,
+Feb 5 (Arms),Triceps Pressdown,15,10,Yes,Triceps,,,
+Feb 5 (Arms),DB Curls,11,2,Yes,Biceps,,,
+Feb 5 (Arms),Triceps Pressdown,11,9,Yes,Triceps,,,
+Feb 5 (Arms),DB Curls,N/A,N/A,N/A,Biceps,,,
+Feb 5 (Arms),Long Rope Triceps Pressdown,7,12,Yes,Triceps,,,
+Feb 5 (Arms),EZ-Bar Preacher Curls,9,6,Yes,Biceps,,,
+Feb 5 (Arms),Long Rope Triceps Pressdown,6,16,Yes,Triceps,,,
+Feb 5 (Arms),EZ-Bar Preacher Curls,12,4,Yes,Biceps,,,
+Feb 5 (Arms),Long Rope Triceps Pressdown,4,10,Yes,Triceps,,,
+Feb 5 (Arms),Straight-Bar Triceps Pressdown (superset),1,15,Yes,Triceps,,,
+Feb 5 (Arms),EZ-Bar Preacher Curls,9,6,Yes,Biceps,,,
+Feb 6 (Back),Single-Arm Cable Lat Pullover,8,9,Yes,Lats,,,
+Feb 6 (Back),Single-Arm Cable Lat Pullover,5,8,Yes,Lats,,,
+Feb 6 (Back),High Row,11,7,Yes,Lats,Upper Back,,
+Feb 6 (Back),High Row,6,12,Yes,Lats,Upper Back,,Rest Pause
+Feb 6 (Back),High Row,4,9,Yes,Lats,Upper Back,,
+Feb 6 (Back),Lat Pulldown,6,9,Yes,Lats,,,
+Feb 6 (Back),Low-Cable Rope Row,6,9,Yes,Lats,Upper Back,,
+Feb 6 (Back),Lat Pulldown (superset),3,5,Yes,Lats,,,
+Feb 7 (Arms),Triceps Pressdown,13,2,Yes,Triceps,,,
+Feb 7 (Arms),DB Curls,10,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Feb 7 (Arms),Triceps Pressdown,8,11,Yes,Triceps,,,
+Feb 7 (Arms),DB Curls,9,0,Yes,Biceps,,,"Lots of cheating on final reps, so considered it failure"
+Feb 7 (Arms),Triceps Pressdown,2,14,Yes,Triceps,,,
+Feb 7 (Arms),Single-Arm DB Preacher Curl,12,3,Yes,Biceps,,,
+Feb 7 (Arms),Triceps Pressdown,1,13,Yes,Triceps,,,
+Feb 7 (Arms),DB Concentration Curls,8,8,Yes,Biceps,,,
+Feb 7 (Arms),Triceps Pressdown,4,17,Yes,Triceps,,,
+Feb 7 (Arms),EZ-Bar Curl,7,7,Yes,Biceps,,,
+Feb 7 (Arms),Single-Arm Triceps Pressdown,8,11,Yes,Triceps,,,
+Feb 7 (Arms),EZ-Bar Curl,2,17,Yes,Biceps,,,
+Feb 7 (Arms),Triceps Pressdown,6,7,Yes,Triceps,,,
+Feb 7 (Arms),Triceps Pressdown (dropset),3,5,Yes,Triceps,,,
+Feb 7 (Arms),DB Curls,6,3,Yes,Biceps,,,
